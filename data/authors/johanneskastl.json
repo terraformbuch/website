@@ -1,0 +1,8 @@
+{
+    "name": "Johannes Kastl",
+    "image" : "img/johannes-kastl.png",
+    "bio": "Linux Consultant & Trainer, B1 Systems GmbH",
+    "social": [
+        { "github": "https://github.com/johanneskastl" }
+    ]
+}

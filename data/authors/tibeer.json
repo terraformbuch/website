@@ -1,0 +1,10 @@
+{
+    "name": "Tim Beermann",
+    "image" : "img/tim-beermann.png",
+    "bio": "Technical Product Owner, OSISM GmbH",
+    "social": [
+        { "link": "https://tibeer.de/" },
+        { "linkedin": "https://www.linkedin.com/in/tim-beermann-tb/" },
+        { "github": "https://github.com/tibeer" }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "name": "Christian Rost",
+    "image" : "img/christian-rost.png",
+    "bio": "Linux Consultant & Trainer, B1 Systems GmbH",
+    "social": [
+        { "github": "https://github.com/grischdian" }
+    ]
+}
