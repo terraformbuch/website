@@ -59,7 +59,7 @@ Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten
 Prosberg 10  
 91238 Engelthal</span>
 
-E-Mail: [tim.beermann@outlook.de](mailto:tim.beermann@outlook.de)
+E-Mail: [terraform@osism.tech](mailto:terraform@osism.tech)
 
 ## Speicherdauer
 

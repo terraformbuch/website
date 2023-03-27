@@ -21,7 +21,7 @@ Prosberg 10\
 
 ## Kontakt
 
-E-Mail: tim.beermann[at]outlook[punkt]de
+E-Mail: [terraform@osism.tech](mailto:terraform@osism.tech)
 
 Quelle:
 <https://www.e-recht24.de/impressum-generator.html>
