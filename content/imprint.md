@@ -21,7 +21,7 @@ Prosberg 10\
 
 ## Kontakt
 
-E-Mail: tim.beermann[at]outlook[punkt]de
+E-Mail: [info@terraformbuch.de](mailto:info@b1-systems.de,info@osism.tech)
 
 Quelle:
 <https://www.e-recht24.de/impressum-generator.html>
