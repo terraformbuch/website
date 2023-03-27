@@ -1,9 +1,9 @@
-Tim Beermann
+Tim Beermann (OSISM GmbH)
 
-Johannes Kastl
+Johannes Kastl (B1 Systems GmbH)
 
-Christian Rost
+Christian Rost (B1 Systems GmbH)
 
-Thorsten Schifferdecker
+Thorsten Schifferdecker (B1 Systems GmbH)
 
-Eike Waldt
+Eike Waldt (B1 Systems GmbH)
