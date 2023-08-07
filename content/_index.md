@@ -1,9 +1,9 @@
-Tim Beermann ([OSISM GmbH](https://osism.tech))
+Tim Beermann
 
-Johannes Kastl ([B1 Systems GmbH](https://b1-systems.de))
+Johannes Kastl
 
-Christian Rost ([B1 Systems GmbH](https://b1-systems.de))
+Christian Rost
 
-Thorsten Schifferdecker ([B1 Systems GmbH](https://b1-systems.de))
+Thorsten Schifferdecker
 
-Eike Waldt ([B1 Systems GmbH](https://b1-systems.de))
+Eike Waldt
